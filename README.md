@@ -5,7 +5,7 @@
 <ul style="list-style: none">
   <li> Full Stack Software Engineer with a passion for 🧩 problem solving, 📈 efficiency, 🤝 mentorship, and 🤓 love of learning</li>
   <li> Houston Native living in the 🌁 San Francisco Bay Area </li>
-  <li> BIG fan of 🏀 playing sports, 🚀 traveling, and 🐾 dogs/cats</li>
+  <li> Big fan of 🏀 playing sports, 🚀 traveling, and 🐾 dogs/cats</li>
 </ul>
 
 ### Tech Stack
