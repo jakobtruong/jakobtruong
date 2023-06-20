@@ -39,7 +39,3 @@
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
-### Github stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jakobtruong&count_private=true&show_icons=true&theme=tokyonight)
